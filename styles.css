@@ -596,29 +596,6 @@ img {
   margin: 5px 0;
 }
 
-.contact__form {
-  text-align: left;
-}
 
-.contact__input,
-.contact__textarea {
-  width: 100%;
-  padding: 10px;
-  margin-bottom: 10px;
-  border: 1px solid #ccc;
-}
-
-.contact__button {
-  padding: 10px 20px;
-  background-color: #833cf5;
-  color: #fff;
-  border: none;
-  cursor: pointer;
-  font-size: 16px;
-}
-
-.contact__button:hover {
-  background-color: #0c9b2d;
-}
 
 }
